@@ -2,6 +2,8 @@ Optionally, you can render application diagram using following command:
 
 `berlioz output-diagram`{{execute}}
 
+**NOTE:** This would not work in Katacoda because it only provides headless terminal, but you can try this on your laptop.
+
 Berlioz CLI tool would scan current directory structure, identify Berliozfile definitions and render the following diagram:
 
 ![Diagram](https://github.com/berlioz-the/samples/raw/master/01.HelloWorld.js/v2.second-service/diagram.png)

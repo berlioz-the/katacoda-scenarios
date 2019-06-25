@@ -26,7 +26,18 @@
         }
     },
     "environment": {
-        "uilayout": "terminal"
+        "uilayout": "editor-terminal",
+        "showdashboard": true,
+        "dashboards": [{
+            "name": "Sample App", 
+            "port": 40000
+        }, {
+            "name": "Grafana",
+            "port": 40002
+        }, {
+            "name": "Grafana",
+            "port": 40006
+        }]
     },
     "backend": {
         "imageid": "docker"

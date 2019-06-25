@@ -21,10 +21,12 @@
     },
     "finish": {
       "text": "finish.md"
-    }
+    },
+    "time": "5 minutes"
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "icon": "fa-apple"
   },
   "backend": {
     "imageid": "bash"

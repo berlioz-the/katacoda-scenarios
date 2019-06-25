@@ -1,0 +1,1 @@
+You have now installed Berlioz CLI tools. Next step would be setting up a cloud account for local development.

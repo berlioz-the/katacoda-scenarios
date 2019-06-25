@@ -21,8 +21,7 @@
     },
     "finish": {
       "text": "finish.md"
-    },
-    "time": "5 minutes"
+    }
   },
   "environment": {
     "uilayout": "terminal",
@@ -30,5 +29,7 @@
   },
   "backend": {
     "imageid": "bash"
-  }
+  },
+  "time": "5 minutes"
+
 }

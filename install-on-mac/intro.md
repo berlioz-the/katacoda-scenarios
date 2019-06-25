@@ -1,0 +1,1 @@
+This scenario describes Berlioz CLI tool setup on a MacOS.  

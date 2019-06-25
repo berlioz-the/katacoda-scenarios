@@ -1,6 +1,8 @@
 {
   "title": "Install on MacOS",
   "description": "Learn how to setup Berlioz CLI on MacOS X",
+  "difficulty": "beginner",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -29,7 +31,5 @@
   },
   "backend": {
     "imageid": "bash"
-  },
-  "time": "5 minutes"
-
+  }
 }

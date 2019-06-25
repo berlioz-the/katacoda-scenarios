@@ -1,6 +1,8 @@
 {
   "title": "Getting Started",
   "description": "What is Berlioz and how to use it?",
+  "difficulty": "intermediate",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {

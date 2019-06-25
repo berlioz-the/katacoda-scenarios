@@ -1,13 +1,10 @@
 {
-    "title": "Running First App Locally",
-    "description": "Learn how to run first two micro-services application locally using Berioz.",
+    "title": "Running First GCP App Locally",
+    "description": "Learn how to locally run an appplication which uses GCP services.",
     "difficulty": "beginner",
     "time": "10 minutes",
     "details": {
         "steps": [{
-            "title": "Step 0 - Katacoda Init",
-            "text": "step0.md"
-        }, {
             "title": "Step 1 - Clone Samples Repo",
             "text": "step1.md"
         }, {
@@ -29,6 +26,6 @@
         "uilayout": "terminal"
     },
     "backend": {
-        "imageid": "docker"
+        "imageid": "bash"
     }
 }

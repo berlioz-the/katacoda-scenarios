@@ -19,7 +19,9 @@
         }],
         "intro": {
             "text": "intro.md",
-            "credits": ""
+            "courseData": "courseBase.sh",
+            "credits": "",
+            "code": "changecd.sh"
         },
         "finish": {
             "text": "finish.md"
@@ -35,7 +37,7 @@
             "name": "Grafana",
             "port": 40002
         }, {
-            "name": "Grafana",
+            "name": "Jaeger",
             "port": 40006
         }]
     },

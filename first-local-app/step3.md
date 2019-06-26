@@ -2,8 +2,8 @@ Run the application using:
 
 `berlioz local build-run`{{execute}}
 
-This process would take a couple of minutes to execute the first time. While this is happening a quick guide on what is going on:
-* Berlioz identifes service definitions and Docker files,
+When running the first time, this process would take a couple of minutes to complete. While this is happening a quick guide on what is happening right now:
+* Berlioz identifes service definitions and corresponding Docker files,
 * Berlioz builds Docker images,
 * Berlioz pulls Grafana, Prometheus, Jaeger and HAProxy docker images,
 * Berlioz runs services from sample project,

@@ -19,9 +19,8 @@
         }],
         "intro": {
             "text": "intro.md",
-            "courseData": "courseBase.sh",
             "credits": "",
-            "code": "changecd.sh"
+            "code": "code.sh"
         },
         "finish": {
             "text": "finish.md"

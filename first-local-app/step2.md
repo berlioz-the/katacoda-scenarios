@@ -1,4 +1,4 @@
-Berlioz can render diagram of your application. **IMPORTANT: This not work on Katacoda, since its running in a headless terminal.**
+Berlioz can render diagram of your application. **IMPORTANT:** This will not work on Katacoda, since it is running in a headless terminal.
 
 Run this command on your computer:
 ```sh

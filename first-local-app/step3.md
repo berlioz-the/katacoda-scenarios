@@ -1,5 +1,4 @@
 Run the application using:  
-
 `berlioz local build-run`{{execute}}
 
 When running the first time, this process would take a couple of minutes to complete. While this is happening a quick guide on what is happening right now:

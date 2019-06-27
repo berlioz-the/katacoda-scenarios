@@ -25,7 +25,7 @@ When running the first time, this process would take about 2-3 minutes to comple
 Sample Application: https://[[HOST_SUBDOMAIN]]-40001-[[KATACODA_HOST]].environments.katacoda.com/
 
 Grafana: https://[[HOST_SUBDOMAIN]]-40003-[[KATACODA_HOST]].environments.katacoda.com/
-Credentials for Grafana are: **admin** / **admin**. Go do Dasbhoards -> Manage -> Berlioz Dashboard.
+Credentials for Grafana are: **admin** / **admin**. Go to *Dasbhoards* -> *Manage* -> *Berlioz Dashboard*.
 
 Jaeger: https://[[HOST_SUBDOMAIN]]-40007-[[KATACODA_HOST]].environments.katacoda.com/
 

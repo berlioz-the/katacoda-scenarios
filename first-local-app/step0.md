@@ -1,4 +1,4 @@
-We are setting up Katacode environment with Berlioz tools and dependencies. This process would take about a minute.  
+We are setting up Katacoda environment with Berlioz tools and dependencies. This process would take about a minute.  
 
 You can proceed to next step as soon as you see **BERLIOZ ENVIRONMENT IS READY** message in the terminal.
 

@@ -1,4 +1,16 @@
-This scenario assumes that you already have Berlioz CLI tool installed
-on your computer. If not, please install Berlioz CLI tool using the following scenario. 
+This scenario describes a use case of an application with 3 microservices:
+* **WEB**: A web frontend written in Node.js,
+* **APP**: A backend service written in Python,
+* **BILL**: A backend service written in Java.
 
-* For MacOS follow: https://www.katacoda.com/berlioz/scenarios/install-on-mac
+**WEB** is talking to **APP**, **APP** is talking to **BILL**.
+
+![Diagram](https://github.com/berlioz-the/sample-polyglot-microservices/raw/master/diagram.png)
+
+We deploy this application using Berlioz to local computer, and to the cloud as well.  
+
+This scenario assumes that you already have Berlioz CLI tool installed
+on your computer. If not, follow installation scenario: 
+* MacOS: https://www.katacoda.com/berlioz/scenarios/install-on-mac
+* Windows: https://docs.berlioz.cloud/installation/windows
+* Ubuntu: https://docs.berlioz.cloud/installation/ubuntu

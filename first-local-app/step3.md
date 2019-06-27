@@ -1,7 +1,7 @@
 Run the application using:  
 `berlioz local build-run`{{execute}}
 
-When running the first time, this process would take about 2 minutes to complete. While this is happening a quick guide on what is happening right now:
+When running the first time, this process would take about 2-3 minutes to complete. While this is happening a quick guide on what is happening right now:
 
 **NOTE:** Java build takes bit time. Please, hang on there!
 

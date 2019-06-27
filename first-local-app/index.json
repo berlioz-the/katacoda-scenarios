@@ -31,13 +31,13 @@
         "showdashboard": true,
         "dashboards": [{
             "name": "Sample App", 
-            "port": 40000
+            "port": 40001
         }, {
             "name": "Grafana",
-            "port": 40002
+            "port": 40003
         }, {
             "name": "Jaeger",
-            "port": 40006
+            "port": 40007
         }]
     },
     "backend": {

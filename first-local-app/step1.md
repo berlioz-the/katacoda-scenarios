@@ -1,6 +1,6 @@
 Download our sample projects repository.  
 
-`git clone https://github.com/berlioz-the/samples.git samples.git`{{execute}}
+`git clone https://github.com/berlioz-the/sample-polyglot-microservices.git sample.git`{{execute}}
 
 Navigate to sample project:
-`cd samples.git/01.HelloWorld.js/v2.second-service`{{execute}}
+`cd sample.git`{{execute}}

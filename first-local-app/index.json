@@ -5,16 +5,16 @@
     "time": "10 minutes",
     "details": {
         "steps": [{
-            "title": "Step 0 - Katacoda Init",
+            "title": "Step 1 - Katacoda Init",
             "text": "step0.md"
         }, {
-            "title": "Step 1 - Clone Samples Repo",
+            "title": "Step 2 - Clone Samples Repo",
             "text": "step1.md"
         }, {
-            "title": "Step 2 - Generate Diagram",
+            "title": "Step 3 - Generate Diagram",
             "text": "step2.md"
         }, {
-            "title": "Step 3 - Run The Sample",
+            "title": "Step 4 - Run The Sample",
             "text": "step3.md"
         }],
         "intro": {

@@ -1,6 +1,6 @@
 {
     "title": "Running First GCP App Locally",
-    "description": "Learn how to run two micro-services application which utilized SQL and Pub/Sub locally using Berioz.",
+    "description": "Learn how to run three micro-services application written in Node.js. Application utilizes GCP SQL and Pub/Sub and gets deployed locally using Berioz.",
     "difficulty": "medium",
     "time": "10 minutes",
     "details": {
@@ -37,6 +37,9 @@
         }, {
             "title": "Step 11 - Run The Sample",
             "text": "step11.md"
+        }, {
+            "title": "Step 12 - Terminate",
+            "text": "step12.md"
         }],
         "intro": {
             "text": "intro.md",
@@ -52,13 +55,13 @@
         "showdashboard": true,
         "dashboards": [{
             "name": "Sample App", 
-            "port": 40001
+            "port": 40000
         }, {
             "name": "Grafana",
-            "port": 40003
+            "port": 40002
         }, {
             "name": "Jaeger",
-            "port": 40007
+            "port": 40006
         }]
     },
     "backend": {

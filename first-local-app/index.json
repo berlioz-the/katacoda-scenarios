@@ -1,6 +1,6 @@
 {
     "title": "Running First App Locally",
-    "description": "Learn how to run three micro-services application locally using Berioz.",
+    "description": "Learn how to run three micro-services application locally using Berioz. Servies are implemented using Node.js, Python and Java.",
     "difficulty": "beginner",
     "time": "10 minutes",
     "details": {

@@ -26,12 +26,12 @@ When running the first time, this process would take about 2-3 minute to complet
 
 **At this time sample application should be up and running!**
 
-Sample Application: https://[[HOST_SUBDOMAIN]]-40001-[[KATACODA_HOST]].environments.katacoda.com/
+Sample Application: https://[[HOST_SUBDOMAIN]]-40000-[[KATACODA_HOST]].environments.katacoda.com/
 
-Grafana: https://[[HOST_SUBDOMAIN]]-40003-[[KATACODA_HOST]].environments.katacoda.com/
+Grafana: https://[[HOST_SUBDOMAIN]]-40002-[[KATACODA_HOST]].environments.katacoda.com/
 Credentials for Grafana are: **admin** / **admin**. Go to *Dasbhoards* -> *Manage* -> *Berlioz Dashboard*.
 
-Jaeger: https://[[HOST_SUBDOMAIN]]-40007-[[KATACODA_HOST]].environments.katacoda.com/
+Jaeger: https://[[HOST_SUBDOMAIN]]-40006-[[KATACODA_HOST]].environments.katacoda.com/
 
 
 You can also check running docker containers:

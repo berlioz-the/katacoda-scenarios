@@ -4,7 +4,8 @@ Create new credentials file:
 `vi credentials.json`{{execute}}
 
 Copy & paste contents from newly downloaded JSON file. Save the file.
-**NOTE:** For non VI users:
+
+**IMPORTANT:** For non VI Gurus:
 * Key *a*
 * *Right-click* -> *Paste*
 * Key *Esc*

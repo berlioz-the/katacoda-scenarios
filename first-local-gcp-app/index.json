@@ -8,14 +8,20 @@
             "title": "Step 1 - Setup GCP Project",
             "text": "step1.md"
         }, {
-            "title": "Step 2 - IAM & admin",
+            "title": "Step 2 - Open IAM & admin",
             "text": "step2.md"
         }, {
             "title": "Step 3 - Create Service Account",
             "text": "step3.md"
         }, {
-            "title": "Step 3 - Service Account Name",
+            "title": "Step 4 - Service Account Name",
             "text": "step4.md"
+        }, {
+            "title": "Step 5 - Setup Permissions",
+            "text": "step5.md"
+        }, {
+            "title": "Step 6 - Create Key",
+            "text": "step6.md"
         }],
         "intro": {
             "text": "intro.md",

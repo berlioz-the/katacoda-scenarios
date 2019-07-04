@@ -24,7 +24,7 @@ When running the first time, this process would take about 2-3 minute to complet
 * Berlioz runs Grafana, connects it to Prometheus and configures dashboards to render metrics,
 * Berlioz runs Jaeger to collect distributed traces.
 
-**At this time sample application should be up and running!**
+**By this time sample application should be up and running!**
 
 Sample Application: https://[[HOST_SUBDOMAIN]]-40000-[[KATACODA_HOST]].environments.katacoda.com/
 

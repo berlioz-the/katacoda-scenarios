@@ -1,6 +1,10 @@
-Download our sample projects repository.  
+1. Login to [Google Cloud Platform Console](https://console.cloud.google.com). Choose an existing Project, or create a new one.
+![GCP Console Screenshot](assets/gcp-console.png)
 
-`git clone https://github.com/berlioz-the/samples.git samples.git`{{execute}}
+2. Open **IAM & admin**
 
-Navigate to sample project:
-`cd samples.git/01.HelloWorld.js/v2.second-service`{{execute}}
+3. Navitate to **Service accounts** no the left.
+
+3. Click **+ CREATE SERVICE ACCOUNT**
+
+4. Type Service account name: **berlioz-local**

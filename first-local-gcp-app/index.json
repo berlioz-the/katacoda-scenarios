@@ -1,31 +1,37 @@
 {
     "title": "Running First GCP App Locally",
-    "description": "Learn how to locally run an appplication which uses GCP services.",
-    "difficulty": "beginner",
+    "description": "Learn how to run two micro-services application which utilized SQL and Pub/Sub locally using Berioz.",
+    "difficulty": "medium",
     "time": "10 minutes",
     "details": {
         "steps": [{
-            "title": "Step 1 - Clone Samples Repo",
+            "title": "Step 1 - Setup GCP Project",
             "text": "step1.md"
-        }, {
-            "title": "Step 2 - Generate Diagram",
-            "text": "step2.md"
-        }, {
-            "title": "Step 3 - Run The Sample",
-            "text": "step3.md"
         }],
         "intro": {
             "text": "intro.md",
-            "credits": ""
+            "credits": "",
+            "code": "code.sh"
         },
         "finish": {
             "text": "finish.md"
         }
     },
     "environment": {
-        "uilayout": "terminal"
+        "uilayout": "editor-terminal",
+        "showdashboard": true,
+        "dashboards": [{
+            "name": "Sample App", 
+            "port": 40001
+        }, {
+            "name": "Grafana",
+            "port": 40003
+        }, {
+            "name": "Jaeger",
+            "port": 40007
+        }]
     },
     "backend": {
-        "imageid": "bash"
+        "imageid": "docker"
     }
 }

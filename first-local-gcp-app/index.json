@@ -10,6 +10,12 @@
         }, {
             "title": "Step 2 - IAM & admin",
             "text": "step2.md"
+        }, {
+            "title": "Step 3 - Create Service Account",
+            "text": "step3.md"
+        }, {
+            "title": "Step 3 - Service Account Name",
+            "text": "step4.md"
         }],
         "intro": {
             "text": "intro.md",

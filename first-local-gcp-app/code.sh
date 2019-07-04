@@ -1,2 +1,2 @@
-(curl -sL https://deb.nodesource.com/setup_10.x | bash -) ; (apt-get install -y nodejs build-essential) ; (npm install berlioz -g --unsafe-perm) ; (echo "***** BERLIOZ ENVIRONMENT IS READY ******")
+(npm install berlioz -g --unsafe-perm) ; (echo "***** BERLIOZ ENVIRONMENT IS READY ******")
 

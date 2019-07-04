@@ -22,6 +22,15 @@
         }, {
             "title": "Step 6 - Create Key",
             "text": "step6.md"
+        }, {
+            "title": "Step 7 - Setup Katacoda Credentials",
+            "text": "step7.md"
+        }, {
+            "title": "Step 8 - Local Environment",
+            "text": "step8.md"
+        }, {
+            "title": "Step 9 - Link GCP Credentials",
+            "text": "step9.md"
         }],
         "intro": {
             "text": "intro.md",
@@ -47,6 +56,6 @@
         }]
     },
     "backend": {
-        "imageid": "ubuntu"
+        "imageid": "docker"
     }
 }

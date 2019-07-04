@@ -1,19 +1,6 @@
-Now we need to transfer the newly downloaded JSON file into Katacoda environment.
+At this point Katacoda environemnt with Berlioz tools should be already installed, and you should see a **BERLIOZ ENVIRONMENT IS READY** message in the terminal.
 
-Create new credentials file:
-`vi credentials.json`{{execute}}
-
-Copy & paste contents from newly downloaded JSON file. Save the file.
-
-**IMPORTANT:** For non VI Gurus:
-* Key *a*
-* *Right-click* -> *Paste*
-* Key *Esc*
-* Key *:*
-* Key *w*
-* Key *q*
-* Key *Enter*
-
-You can verify the contents using: 
-`cat credentials.json`{{execute}}
-
+To set up an environment on your local computer follow scenarios below:
+* MacOS: https://www.katacoda.com/berlioz/scenarios/install-on-mac
+* Windows: https://docs.berlioz.cloud/installation/windows
+* Ubuntu: https://docs.berlioz.cloud/installation/ubuntu

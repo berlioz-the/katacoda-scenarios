@@ -1,7 +1,9 @@
 Run the application using:  
 `berlioz local build-run`{{execute}}
 
-When running the first time, this process would take about 1 minute to complete. While this is happening a quick guide on what is happening right now:
+When running the first time, this process would take about 2-3 minute to complete. While this is happening a quick guide on what is happening right now:
+
+**NOTE:** Launching an SQL instance in GCP takes bit time. Please, hang on there!
 
 * Berlioz identifes service definitions and corresponding Docker files,
 * Berlioz builds Docker images:

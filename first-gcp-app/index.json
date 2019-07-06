@@ -50,8 +50,11 @@
             "title": "Step 15 - Deploy",
             "text": "step15.md"
         }, {
-            "title": "Step 16 - Terminate",
+            "title": "Step 16 - Services",
             "text": "step16.md"
+        }, {
+            "title": "Step 17 - Terminate",
+            "text": "step17.md"
         }],
         "intro": {
             "text": "intro.md",

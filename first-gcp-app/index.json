@@ -1,0 +1,71 @@
+{
+    "title": "Running First App in GCP Cloud",
+    "description": "Learn how to run three micro-services application in GCP Cloud. Application utilizes GCP SQL and Pub/Sub and gets deployed to GCP Cloud using Berioz.",
+    "difficulty": "medium",
+    "time": "10 minutes",
+    "details": {
+        "steps": [{
+            "title": "Step 1 - Setup GCP Project",
+            "text": "step1.md"
+        }, {
+            "title": "Step 2 - Open IAM & admin",
+            "text": "step2.md"
+        }, {
+            "title": "Step 3 - Create Service Account",
+            "text": "step3.md"
+        }, {
+            "title": "Step 4 - Service Account Name",
+            "text": "step4.md"
+        }, {
+            "title": "Step 5 - Setup Permissions",
+            "text": "step5.md"
+        }, {
+            "title": "Step 6 - Create Key",
+            "text": "step6.md"
+        }, {
+            "title": "Step 7 - Local Environment",
+            "text": "step7.md"
+        }, {
+            "title": "Step 8 - Setup Katacoda Credentials",
+            "text": "step8.md"
+        }, {
+            "title": "Step 9 - Link GCP Credentials",
+            "text": "step9.md"
+        }, {
+            "title": "Step 10 - Clone Samples Repo",
+            "text": "step10.md"
+        }, {
+            "title": "Step 11 - Run The Sample",
+            "text": "step11.md"
+        }, {
+            "title": "Step 12 - Terminate",
+            "text": "step12.md"
+        }],
+        "intro": {
+            "text": "intro.md",
+            "credits": "",
+            "code": "code.sh"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "editor-terminal",
+        "uieditorpath": "/root/example",
+        "showdashboard": true,
+        "dashboards": [{
+            "name": "Sample App", 
+            "port": 40000
+        }, {
+            "name": "Grafana",
+            "port": 40002
+        }, {
+            "name": "Jaeger",
+            "port": 40006
+        }]
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}

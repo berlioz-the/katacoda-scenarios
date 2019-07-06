@@ -1,8 +1,6 @@
-1. Login to gcloud CLI: 
-`gcloud auth login`{{execute}}
-2. Navigate to the URL in the terminal
-3. Copy/paste the verification code inside the terminal
-4. Set the default project in gcloud CLI:
-`gloud config set project <gcp-project-name>`{{execute}}
-5. Connect to Kubernetes cluster:
-`gcloud container clusters get-credentials <cluster> --zone <zone> --project <gcp-project-name>`{{execute}}
+1. Select **Zonal** location type
+2. Choose the zone of your choice, for example **us-west1-c**
+3. **IMPORTANT:** Name the Kubernetes cluter as following: **&lt;deployment&gt;-&lt;zone-no-dashes&gt;**, for example **prod-uswest1c**
+4. Click **Create**
+
+![GCP Kubernetes New Cluster Screenshot](assets/gcp-k8s-new-cluster.png)

@@ -23,17 +23,26 @@
             "title": "Step 6 - Create Key",
             "text": "step6.md"
         }, {
-            "title": "Step 7 - Open Kubernetes",
+            "title": "Step 7 - Save Credentials",
             "text": "step7.md"
         }, {
-            "title": "Step 8 - Create Kubernetes Cluster",
+            "title": "Step 8 - Open Kubernetes",
             "text": "step8.md"
         }, {
-            "title": "Step 9 - Configure GCloud CLI",
+            "title": "Step 9 - Create Kubernetes Cluster",
             "text": "step9.md"
-        }
-        
-        , {
+        }, {
+            "title": "Step 10 - Configure GCloud CLI",
+            "text": "step10.md"
+        }, {
+            "title": "Step 11 - Prepare Kubernetes Cluster",
+            "text": "step11.md"
+        }, {
+            "title": "Step 12 - Setup Berlioz Account",
+            "text": "step12.md"
+        }, {
+
+
             "title": "Step 7 - Local Environment",
             "text": "zzstep7.md"
         }, {

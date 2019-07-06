@@ -1,4 +1,19 @@
-![GCP Kubernetes Menu Screenshot](assets/gcp-k8s-menu.png)
+Now we need to transfer the newly downloaded JSON file into Katacoda environment.
 
-Then, click **Create cluster**
-![GCP Kubernetes New Cluster Screenshot](assets/gcp-k8s-create-cluster.png)
+Create new credentials file:
+`vi credentials.json`{{execute}}
+
+Copy & paste contents from newly downloaded JSON file. Save the file.
+
+**IMPORTANT:** For non VI Gurus:
+* Key *a*
+* *Right-click* -> *Paste*
+* Key *Esc*
+* Key *:*
+* Key *w*
+* Key *q*
+* Key *Enter*
+
+You can verify the contents using: 
+`cat credentials.json`{{execute}}
+

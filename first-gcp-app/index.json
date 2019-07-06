@@ -32,13 +32,13 @@
             "title": "Step 9 - Create Kubernetes Cluster",
             "text": "step9.md"
         }, {
-            "title": "Step 10 - Configure GCloud CLI",
+            "title": "Step 10 - Setup Berlioz Account",
             "text": "step10.md"
         }, {
-            "title": "Step 11 - Prepare Kubernetes Cluster",
+            "title": "Step 11 - Configure GCloud CLI",
             "text": "step11.md"
         }, {
-            "title": "Step 12 - Setup Berlioz Account",
+            "title": "Step 12 - Prepare Kubernetes Cluster",
             "text": "step12.md"
         }, {
             "title": "Step 13 - Clone Samples Repo",

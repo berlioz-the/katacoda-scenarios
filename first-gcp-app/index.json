@@ -2,7 +2,7 @@
     "title": "Running First App in GCP Cloud",
     "description": "Learn how to run three micro-services application in GCP Cloud. Application utilizes GCP SQL and Pub/Sub and gets deployed to GCP Cloud using Berioz.",
     "difficulty": "medium",
-    "time": "10 minutes",
+    "time": "15 minutes",
     "details": {
         "steps": [{
             "title": "Step 1 - Setup GCP Project",
@@ -41,20 +41,17 @@
             "title": "Step 12 - Setup Berlioz Account",
             "text": "step12.md"
         }, {
-            "title": "Step 7 - Local Environment",
-            "text": "zzstep7.md"
+            "title": "Step 13 - Clone Samples Repo",
+            "text": "step13.md"
         }, {
-            "title": "Step 9 - Link GCP Credentials",
-            "text": "zzstep9.md"
+            "title": "Step 14 - Build & Push Artifacts",
+            "text": "step14.md"
         }, {
-            "title": "Step 10 - Clone Samples Repo",
-            "text": "zzstep10.md"
+            "title": "Step 15 - Deploy",
+            "text": "step15.md"
         }, {
-            "title": "Step 11 - Run The Sample",
-            "text": "zzstep11.md"
-        }, {
-            "title": "Step 12 - Terminate",
-            "text": "zzstep12.md"
+            "title": "Step 16 - Terminate",
+            "text": "step16.md"
         }],
         "intro": {
             "text": "intro.md",

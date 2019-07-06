@@ -1,6 +1,4 @@
-At this point Katacoda environment with Berlioz tools should be already installed, and you should see a **BERLIOZ ENVIRONMENT IS READY** message in the terminal.
+![GCP Kubernetes Menu Screenshot](assets/gcp-k8s-menu.png)
 
-To set up an environment on your local computer follow scenarios below:
-* MacOS: https://www.katacoda.com/berlioz/scenarios/install-on-mac
-* Windows: https://docs.berlioz.cloud/installation/windows
-* Ubuntu: https://docs.berlioz.cloud/installation/ubuntu
+Then, click **Create cluster**
+![GCP Kubernetes New Cluster Screenshot](assets/gcp-k8s-create-cluster.png)

@@ -23,24 +23,33 @@
             "title": "Step 6 - Create Key",
             "text": "step6.md"
         }, {
-            "title": "Step 7 - Local Environment",
+            "title": "Step 7 - Open Kubernetes",
             "text": "step7.md"
         }, {
-            "title": "Step 8 - Setup Katacoda Credentials",
+            "title": "Step 8 - Create Kubernetes Clsuter",
             "text": "step8.md"
+        }
+        
+        , {
+            "title": "Step 7 - Local Environment",
+            "text": "zzstep7.md"
+        }, {
+            "title": "Step 8 - Setup Katacoda Credentials",
+            "text": "zzstep8.md"
         }, {
             "title": "Step 9 - Link GCP Credentials",
-            "text": "step9.md"
+            "text": "zzstep9.md"
         }, {
             "title": "Step 10 - Clone Samples Repo",
-            "text": "step10.md"
+            "text": "zzstep10.md"
         }, {
             "title": "Step 11 - Run The Sample",
-            "text": "step11.md"
+            "text": "zzstep11.md"
         }, {
             "title": "Step 12 - Terminate",
-            "text": "step12.md"
-        }],
+            "text": "zzstep12.md"
+        }
+        ],
         "intro": {
             "text": "intro.md",
             "credits": "",

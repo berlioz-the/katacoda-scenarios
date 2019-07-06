@@ -1,19 +1,6 @@
-Now we need to transfer the newly downloaded JSON file into Katacoda environment.
+1. Select **Zonal** location type
+2. Choose the zone of your choice, for example **us-west1-c**
+3. **IMPORTANT:** Name the Kubernetes cluter as following: **<deployment>-<zone-no-dashes>**, for example **prod-uswest1c**
+4. Click **Create**
 
-Create new credentials file:
-`vi credentials.json`{{execute}}
-
-Copy & paste contents from newly downloaded JSON file. Save the file.
-
-**IMPORTANT:** For non VI Gurus:
-* Key *a*
-* *Right-click* -> *Paste*
-* Key *Esc*
-* Key *:*
-* Key *w*
-* Key *q*
-* Key *Enter*
-
-You can verify the contents using: 
-`cat credentials.json`{{execute}}
-
+![GCP Kubernetes New Cluster Screenshot](assets/gcp-k8s-new-cluster.png)

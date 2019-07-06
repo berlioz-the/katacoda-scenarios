@@ -78,6 +78,6 @@
         }]
     },
     "backend": {
-        "imageid": "ubuntu"
+        "imageid": "kubernetes"
     }
 }

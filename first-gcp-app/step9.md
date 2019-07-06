@@ -1,7 +1,5 @@
-0. Install gcloud CLI: 
-`curl https://sdk.cloud.google.com | bash`{{execute}}
 1. Login to gcloud CLI: 
-`gloud auth login`{{execute}}
+`gcloud auth login`{{execute}}
 2. Navigate to the URL in the terminal
 3. Copy/paste the verification code inside the terminal
 4. Set the default project in gcloud CLI:

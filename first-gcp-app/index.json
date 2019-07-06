@@ -41,13 +41,8 @@
             "title": "Step 12 - Setup Berlioz Account",
             "text": "step12.md"
         }, {
-
-
             "title": "Step 7 - Local Environment",
             "text": "zzstep7.md"
-        }, {
-            "title": "Step 8 - Setup Katacoda Credentials",
-            "text": "zzstep8.md"
         }, {
             "title": "Step 9 - Link GCP Credentials",
             "text": "zzstep9.md"
@@ -60,8 +55,7 @@
         }, {
             "title": "Step 12 - Terminate",
             "text": "zzstep12.md"
-        }
-        ],
+        }],
         "intro": {
             "text": "intro.md",
             "credits": "",

@@ -1,1 +1,1 @@
-export CLOUDSDK_CORE_DISABLE_PROMPTS=1 ; mkdir -p /root/example ; cd /root/example ; (npm install berlioz -g --unsafe-perm) ; (echo "***** BERLIOZ ENVIRONMENT IS READY ******")
+export CLOUDSDK_CORE_DISABLE_PROMPTS=1 ; mkdir -p /root/example ; cd /root/example ; (npm install berlioz -g --unsafe-perm) ; (curl https://sdk.cloud.google.com | bash) ; source /root/.bashrc ; (echo "***** BERLIOZ ENVIRONMENT IS READY ******")

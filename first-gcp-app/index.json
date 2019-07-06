@@ -26,8 +26,11 @@
             "title": "Step 7 - Open Kubernetes",
             "text": "step7.md"
         }, {
-            "title": "Step 8 - Create Kubernetes Clsuter",
+            "title": "Step 8 - Create Kubernetes Cluster",
             "text": "step8.md"
+        }, {
+            "title": "Step 8 - Configure GCloud CLI",
+            "text": "step9.md"
         }
         
         , {

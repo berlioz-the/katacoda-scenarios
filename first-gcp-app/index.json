@@ -1,5 +1,5 @@
 {
-    "title": "Running First App in GCP Cloud",
+    "title": "Deploying First App to GCP Cloud",
     "description": "Learn how to run three micro-services application in GCP Cloud. Application utilizes GCP SQL and Pub/Sub and gets deployed to GCP Cloud using Berioz.",
     "difficulty": "medium",
     "time": "15 minutes",

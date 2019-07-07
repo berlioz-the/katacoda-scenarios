@@ -53,8 +53,11 @@
             "title": "Step 16 - Services",
             "text": "step16.md"
         }, {
-            "title": "Step 17 - Terminate",
+            "title": "Step 17 - Grafana",
             "text": "step17.md"
+        }, {
+            "title": "Step 18 - Terminate",
+            "text": "step18.md"
         }],
         "intro": {
             "text": "intro.md",

@@ -1,13 +1,11 @@
-This scenario describes a use case of an application with 3 microservices:
+This scenario describes running 3 microservices polyglot application on a local computer.
 * **WEB**: A web frontend written in Node.js,
 * **APP**: A backend service written in Python,
 * **BILL**: A backend service written in Java.
 
-**WEB** is talking to **APP**, **APP** is talking to **BILL**.
-
 ![Diagram](https://github.com/berlioz-the/sample-polyglot-microservices/raw/master/diagram.png)
 
-We deploy this application using Berlioz to local computer, and to the cloud as well.  
+**WEB** is talking to **APP**, **APP** is talking to **BILL**.
 
 ### Prerequisites
 

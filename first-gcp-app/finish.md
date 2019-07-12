@@ -1,4 +1,4 @@
-You have successfully deployed your first application with Berlioz ot GCP!
+You have successfully deployed your first application with Berlioz to GCP!
 
 You can now [request a custom demo](https://berlioz.cloud/#demo) with our team.
 

@@ -1,4 +1,4 @@
-Now we need to transfer the newly downloaded JSON file into Katacoda environment.
+**NOTE:** If you are running on your laptop, you can skip this step. This steps is only to transfer the newly downloaded JSON file into Katacoda if you want to run within the browser.
 
 Create new credentials file:
 `vi credentials.json`{{execute}}

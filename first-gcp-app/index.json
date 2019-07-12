@@ -26,38 +26,26 @@
             "title": "Step 7 - Save Credentials",
             "text": "step7.md"
         }, {
-            "title": "Step 8 - Open Kubernetes",
+            "title": "Step 8 - Setup Berlioz Account",
             "text": "step8.md"
         }, {
-            "title": "Step 9 - Create Kubernetes Cluster",
+            "title": "Step 9 - Clone Samples Repo",
             "text": "step9.md"
         }, {
-            "title": "Step 10 - Setup Berlioz Account",
+            "title": "Step 10 - Build & Push Artifacts",
             "text": "step10.md"
         }, {
-            "title": "Step 11 - Configure GCloud CLI",
+            "title": "Step 11 - Deploy",
             "text": "step11.md"
         }, {
-            "title": "Step 12 - Prepare Kubernetes Cluster",
+            "title": "Step 12 - Access Services",
             "text": "step12.md"
         }, {
-            "title": "Step 13 - Clone Samples Repo",
+            "title": "Step 13 - Open Grafana",
             "text": "step13.md"
         }, {
-            "title": "Step 14 - Build & Push Artifacts",
+            "title": "Step 14 - Terminate",
             "text": "step14.md"
-        }, {
-            "title": "Step 15 - Deploy",
-            "text": "step15.md"
-        }, {
-            "title": "Step 16 - Services",
-            "text": "step16.md"
-        }, {
-            "title": "Step 17 - Grafana",
-            "text": "step17.md"
-        }, {
-            "title": "Step 18 - Terminate",
-            "text": "step18.md"
         }],
         "intro": {
             "text": "intro.md",

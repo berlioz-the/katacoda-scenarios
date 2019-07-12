@@ -1,6 +1,9 @@
-1. Configure GCloud and Kubectl CLI: 
-`berlioz kubectl connect --deployment prod --region us-west1-c`{{execute}}
-2. Verify by listing kubernetes cluster nodes:
-`kubectl get nodes`{{execute}}
+Deploy application using:
+`berlioz run --region us-west1-c --deployment prod --cluster addr`{{execute}}
 
+Check deployment status using:
+`berlioz status --region us-west1-c --deployment prod`{{execute}}
+
+Once you see all tasks completed move to the next step. You can also wait for completion using:
+`berlioz wait --region us-west1-c --deployment prod`{{execute}}
 

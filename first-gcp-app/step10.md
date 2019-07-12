@@ -1,14 +1,17 @@
-1. Login to Berlioz CLI: 
-`berlioz login`{{execute}}
+Validate Berlioz file:  
+`berlioz validate`{{execute}}
 
-2. Link GCP to Berlioz: 
-`berlioz provider create gcp --name mygcp --key-path credentials.json`{{execute}}
+Build docker images and upload to GCP registry:  
+`berlioz push --region us-west1-c`{{execute}}
 
-3. Verify provider created: 
-`berlioz provider list`{{execute}}
+When running the first time, this process would take about 2-3 minute to complete. This is what happens right now:
 
-4. Create deployment:
-`berlioz deployment create --name prod --provider mygcp`{{execute}}
-
-5. Create deployment:
-`berlioz deployment list`{{execute}}
+* Berlioz identifes service definitions and corresponding Docker files,
+* Berlioz builds Docker images:
+  1. Node.js WEB service
+  2. Node.js APP service
+  3. Node.js PROC service
+* Belrioz pushes Docker images to GCP Container image registry
+  1. Node.js WEB service
+  2. Node.js APP service
+  3. Node.js PROC service

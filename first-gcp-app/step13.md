@@ -1,4 +1,4 @@
-Login to grafana using admin/admin username & password combination. Go to **Dashboards** -> **Manage**.
+Login to Grafana using **admin** / **admin** username & password combination. Go to **Dashboards** -> **Manage**.
 ![GCP Grafana Screenshot](assets/grafana-1.png)
 
 Select **Berlioz Dashboard**

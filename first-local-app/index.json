@@ -16,6 +16,18 @@
         }, {
             "title": "Step 4 - Run The Sample",
             "text": "step4.md"
+        }, {
+            "title": "Step 5 - Open the App",
+            "text": "step5.md"
+        }, {
+            "title": "Step 6 - Grafana",
+            "text": "step6.md"
+        }, {
+            "title": "Step 7 - Jaeger",
+            "text": "step7.md"
+        }, {
+            "title": "Step 8 - Terminate",
+            "text": "step8.md"
         }],
         "intro": {
             "text": "intro.md",

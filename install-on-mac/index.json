@@ -30,6 +30,6 @@
     "icon": "fa-apple"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "kubernetes"
   }
 }

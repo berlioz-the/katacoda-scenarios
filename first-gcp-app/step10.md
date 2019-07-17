@@ -1,8 +1,5 @@
-Validate Berlioz file:  
-`berlioz validate`{{execute}}
-
-Build docker images and upload to GCP registry:  
-`berlioz push --region us-west1-c`{{execute}}
+Deploy to GCP using:
+`berlioz deploy --region us-west1-c --deployment prod`{{execute}}
 
 When running the first time, this process would take about 2-3 minute to complete. This is what happens right now:
 
@@ -11,7 +8,8 @@ When running the first time, this process would take about 2-3 minute to complet
   1. Node.js WEB service
   2. Node.js APP service
   3. Node.js PROC service
-* Belrioz pushes Docker images to GCP Container image registry
+* Berlioz pushes Docker images to GCP Container image registry
   1. Node.js WEB service
   2. Node.js APP service
   3. Node.js PROC service
+* Berlioz triggers deployment to **prod** environment

@@ -35,11 +35,20 @@
             "title": "Step 10 - Clone Samples Repo",
             "text": "step10.md"
         }, {
-            "title": "Step 11 - Run The Sample",
+            "title": "Step 11 - Deploy The Sample",
             "text": "step11.md"
         }, {
-            "title": "Step 12 - Terminate",
+            "title": "Step 12 - Open the App",
             "text": "step12.md"
+        }, {
+            "title": "Step 13 - Grafana",
+            "text": "step13.md"
+        }, {
+            "title": "Step 14 - Jaeger",
+            "text": "step14.md"
+        }, {
+            "title": "Step 15 - Terminate",
+            "text": "step15.md"
         }],
         "intro": {
             "text": "intro.md",

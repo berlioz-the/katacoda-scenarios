@@ -32,13 +32,13 @@
             "title": "Step 9 - Clone Samples Repo",
             "text": "step9.md"
         }, {
-            "title": "Step 10 - Build & Push Artifacts",
+            "title": "Step 10 - Deploy",
             "text": "step10.md"
         }, {
             "title": "Step 11 - Deploy",
             "text": "step11.md"
         }, {
-            "title": "Step 12 - Access Services",
+            "title": "Step 12 - Check Status",
             "text": "step12.md"
         }, {
             "title": "Step 13 - Open Grafana",

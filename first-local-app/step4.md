@@ -5,7 +5,7 @@ When running the first time, this process would take about 2-3 minutes to comple
 
 **NOTE:** Java build takes bit time. Please, hang on there!
 
-* Berlioz identifes service definitions and corresponding Docker files,
+* Berlioz identifies service definitions and corresponding Docker files,
 * Berlioz builds Docker images:
   1. Node.js WEB service
   2. Python APP service

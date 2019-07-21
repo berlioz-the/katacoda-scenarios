@@ -10,5 +10,5 @@
 4. Create deployment:
 `berlioz deployment create --name prod --provider mygcp`{{execute}}
 
-5. Create deployment:
+5. Verify deployment created:
 `berlioz deployment list`{{execute}}
